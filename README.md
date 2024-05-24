@@ -17,12 +17,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Created resource groups in azure and created two virtual machines within them. 
+- ensure conectivity with the virtual machines in order to be able to connect them together and use remote desktop.
+- Install active directory onto the virtual machines then created a administrator and a regular user.
+- Created pretend additional users to the domain to see how it would be in a real life company for example. Also learned how to get access to reset password for users.
 
 <h2>Deployment and Configuration Steps</h2>
 
